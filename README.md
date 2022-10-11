@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding,Data Analysis, Machine learning , Data science, PowerBI,SAS and DeepNLP
 - 🌱 I’m currently learning ... Data Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... anshuldubey448ad.ad@gmailcom
+- 📫 How to reach me ... anshuldubey448ad.ad@gmail.com
 
 <!---
 anshuld1995/anshuld1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
