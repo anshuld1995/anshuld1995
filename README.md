@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshuld1995(anshul dubey)
-- 👀 I’m interested in ... coding,Data Analysis,SQL, Machine learning , Data science, PowerBI,SAS,DeepNLP and Tableau
+- 👀 I’m interested in ... coding,Data Analysis,SQL, Machine learning , Data science, PowerBI,SAS,DeepNLP with ML and Tableau
 - 🌱 I’m currently learning ... Data Science,Machine learning and neural network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anshuldubey448ad.ad@gmail.com
