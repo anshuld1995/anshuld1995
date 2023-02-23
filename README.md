@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshuld1995(anshul dubey)
 - 👀 I’m interested in ... python,numpy,pandas,matplotlib,seaborn,coding,Data Analysis,SQL, Machine learning , Data science, PowerBI,SAS,DeepNLP with ML , Tableau and web scraping 
 - 🌱 I’m currently learning ... Data Science,Machine learning and neural network in collaboration with IBM
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... MNC COMPANYS
 - 📫 How to reach me ... anshuldubey448ad.ad@gmail.com
 
 <!---
